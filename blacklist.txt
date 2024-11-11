@@ -8,4 +8,5 @@ Fatih1313,
 Nedim1313,
 Mtyhl,
 MtyhlV2,
-JackMxKillerP
+JackMxKillerP,
+FirstStriker
