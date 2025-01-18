@@ -1,3 +1,1 @@
-Arda:542167,
-Samet:123789,
-Çeto:123789
+username:password:hwid
